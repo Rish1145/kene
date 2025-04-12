@@ -44,3 +44,23 @@ footer {
   color: white;
   margin-top: 2rem;
 }
+
+.download {
+  text-align: center;
+  margin-top: 2rem;
+}
+
+.download-btn {
+  display: inline-block;
+  background-color: #005bbb;
+  color: white;
+  padding: 12px 20px;
+  text-decoration: none;
+  border-radius: 6px;
+  font-weight: bold;
+  transition: background-color 0.3s ease;
+}
+
+.download-btn:hover {
+  background-color: #003e8a;
+}
